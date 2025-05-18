@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" style="width: 100%; height: auto;" />
+  <img src="https://i.pinimg.com/736x/74/11/aa/7411aaace15b10e3aae419318fc7f01f.jpg" style="width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Netsi</h1>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **orthodoxawit7@gmail.com**
 
-- ⚡ Fun fact ** I have a vivid imagination**
+- ⚡ Fun fact  **I have a vivid imagination**
 
 
 <h3 align="left">Connect with me:</h3>
