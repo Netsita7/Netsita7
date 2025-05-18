@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Netsi</h1>
 
-
-<h3 align="center">I’m a full-stack developer specializing in the MERN stack and Laravel, with a passion for building high-performance web applications. Additionally, I excel in collaborative environments, problem-solving, and adapting quickly to new technologies. </h3>
- 
+  <h3 align="center" style="font-style: italic;">
+    MERN & Laravel dev ⚡ Building blazing-fast web apps 🚀<br>
+    Team player | Problem solver | Fast learner
+  </h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
