@@ -12,7 +12,7 @@
 
 
 - ### 🎓 Current Status  
-  Final Year Software Engineering Student | Working Remotely in Web Development
+  Software Engineer| Working Remotely in Web Development
 
 - 🌱 I’m currently learning **Django**
 
