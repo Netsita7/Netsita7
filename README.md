@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Netsi</h1>
 
   <h3 align="center" style="font-style: italic;">
-    MERN & Laravel developer <br>
+    MERN & Laravel developer | Aspiring QA Engineer | Frappe Developer<br>
     Team player | Problem solver | Fast learner
   </h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
@@ -14,7 +14,7 @@
 - ### 🎓 Current Status  
   Software Developer
 
-- 📫 How to reach me **habenm5757@gmail.com**
+- 📫 How to reach me **orthodoxawit7@gmail.com**
 
 - ⚡ Fun fact  **I have a vivid imagination**
 
